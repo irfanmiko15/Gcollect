@@ -1,0 +1,12 @@
+{
+  "name": "GCollect",
+  "displayName": "GCollect",
+  "expo": {
+    "name": "GCollect",
+    "slug": "GCollect",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
